@@ -37,6 +37,14 @@
 ![.NetCore](https://img.shields.io/badge/-.NetCore-05122A?style=flat&logo=.NetCore)&nbsp;
 ![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=MVC)&nbsp;
 ![DataStructure](https://img.shields.io/badge/-DataStructure%20-05122A?style=flat&logo=DataStructure)&nbsp;
+<img src="https://img.shields.io/badge/c%23-05122A?style=flat&logo=c-sharp&logoColor=5C2D91" alt="C#">&nbsp;
+<img src="https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=.NET&logoColor=512BD4" alt="LINQ">&nbsp;
+<img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=.NET&logoColor=512BD4" alt="Entity Framework">&nbsp;
+<img src="https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="ASP.NET">&nbsp;
+<img src="https://img.shields.io/badge/-API-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="API">&nbsp;
+<img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="MVC">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91" alt="Visual Studio">&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarkamal1810&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br>
