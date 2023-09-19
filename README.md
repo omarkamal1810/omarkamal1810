@@ -38,7 +38,6 @@
 ![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=MVC)&nbsp;
 ![DataStructure](https://img.shields.io/badge/-DataStructure%20-05122A?style=flat&logo=DataStructure)&nbsp;
 
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarkamal1810&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br>
 
@@ -46,4 +45,7 @@
 <a href="https://komarev.com/ghpvc/?username=omarkamal1810&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=omarkamal1810&style=for-the-badge">
 </a>
+
+
+
 
