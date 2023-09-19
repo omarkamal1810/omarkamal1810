@@ -18,7 +18,7 @@
 - 👨‍💻 Interested in Web Development 
 - 💬 Ask me about my experience with C#, .NetCore, MVC, and SQL or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://omarkamal1810.github.io/Portofolio/my-cv to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://omarkamal1810.github.io/Portofolio/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
