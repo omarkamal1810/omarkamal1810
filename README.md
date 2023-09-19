@@ -42,9 +42,7 @@
 <br>
 
 
-<a href="https://komarev.com/ghpvc/?username=omarkamal1810&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=omarkamal1810&style=for-the-badge">
-</a>
+
 
 
 
